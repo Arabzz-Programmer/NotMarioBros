@@ -1,31 +1,33 @@
 # Not Mario Bros
-Um fã game feito com ❤️ por ARABZZ.
+A fan game made with ❤️ by ARABZZ.
 
-Este projeto é uma homenagem ao clássico Super Mario Bros. da Nintendo, desenvolvido como um exercício criativo e técnico. O jogo foi criado apenas para fins educacionais e de diversão, sem qualquer intenção de lucro ou violação de direitos autorais.
-# Aviso Legal:
+This project is a tribute to Nintendo's classic Super Mario Bros., developed as a creative and technical exercise. The game was created for educational and fun purposes only, without any intention of profit or copyright infringement.
+# Disclaimer:
 
-    Este jogo não é oficial e não está associado à Nintendo.
+This game is unofficial and is not associated with Nintendo.
 
-    Todos os sprites, personagens, assets e propriedades intelectuais relacionados ao Super Mario Bros. são de propriedade da Nintendo.
+All sprites, characters, assets and intellectual properties related to Super Mario Bros. are property of Nintendo.
 
-    Este projeto foi desenvolvido como um fã game, sem fins comerciais, e não reivindica a posse de nenhum dos assets originais utilizados.
+This project was developed as a fan game, without commercial purposes, and does not claim ownership of any of the original assets used.
 
-# Sobre o Jogo:
+# About the Game:
 
-    Not Mario Bros é uma recriação inspirada no clássico jogo de plataforma, desenvolvido em C.
+Not Mario Bros is a recreation inspired by the classic platform game, developed in C.
 
-    O objetivo principal deste projeto foi aprender e praticar conceitos de programação de jogos, como física de plataformas, colisões e design de fases.
+The main goal of this project was to learn and practice game programming concepts, such as platform physics, collisions and level design.
 
-    O jogo é uma demonstração de amor pelos clássicos dos videogames e não tem a intenção de competir ou substituir o trabalho original da Nintendo.
+The game is a demonstration of love for classic video games and is not intended to compete or replace Nintendo's original work.
 
-# Como Jogar:
+# How to Play:
 
-    [Instruções sobre como compilar e executar o jogo, se aplicável.]
+Open the "NMB.exe" file and if it does a allert message of that is a virus just ignore it
 
-    Controles: [Liste os controles aqui, por exemplo: "Setas para mover, Espaço para pular"].
+Controls: 
+A, D for walk
+Space to jump
 
-# Créditos:
+# Credits:
 
-    Desenvolvido por: ARABZZ
+Developed by: ARABZZ
 
-    Sprites e assets originais: Nintendo (utilizados apenas para fins educacionais e de homenagem).
+Original sprites and assets: Nintendo (used for educational and tribute purposes only).
